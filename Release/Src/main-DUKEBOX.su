@@ -1,0 +1,15 @@
+main-DUKEBOX.c:231:6:SystemClock_Config	88	static
+main-DUKEBOX.c:644:6:HAL_TIM_PeriodElapsedCallback	0	static
+main-DUKEBOX.c:653:6:create_sine	48	static
+main-DUKEBOX.c:697:6:clear_ui	0	static
+main-DUKEBOX.c:707:6:start_ui	24	static
+main-DUKEBOX.c:716:6:frequency_ui	40	static
+main-DUKEBOX.c:745:6:amplify_ui	32	static
+main-DUKEBOX.c:774:6:sweep_ui	24	static
+main-DUKEBOX.c:783:6:measure_ui	72	static
+main-DUKEBOX.c:672:6:call_ui	8	static
+main-DUKEBOX.c:287:6:HAL_ADC_ConvCpltCallback	88	static
+main-DUKEBOX.c:157:5:main	16	static
+main-DUKEBOX.c:819:5:debounce	0	static
+main-DUKEBOX.c:399:6:HAL_GPIO_EXTI_Callback	80	static
+main-DUKEBOX.c:841:6:_Error_Handler	0	static
